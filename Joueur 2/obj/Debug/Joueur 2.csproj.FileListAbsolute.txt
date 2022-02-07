@@ -1,0 +1,24 @@
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\bin\Debug\Joueur 2.exe
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\bin\Debug\Joueur 2.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\bin\Debug\WCFDataContract.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\bin\Debug\WCFInterface.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\bin\Debug\WCFDataContract.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\bin\Debug\WCFInterface.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\obj\Debug\Joueur 2.csprojResolveAssemblyReference.cache
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\obj\Debug\Joueur_2.FormJoueur2.resources
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\obj\Debug\Joueur_2.Properties.Resources.resources
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\obj\Debug\Joueur 2.csproj.GenerateResource.Cache
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\obj\Debug\Joueur 2.exe
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\Joueur 2\obj\Debug\Joueur 2.pdb
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\obj\Debug\Joueur 2.exe
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\obj\Debug\Joueur 2.pdb
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\bin\Debug\Joueur 2.exe
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\bin\Debug\Joueur 2.pdb
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\bin\Debug\WCFDataContract.dll
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\bin\Debug\WCFInterface.dll
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\bin\Debug\WCFDataContract.pdb
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\bin\Debug\WCFInterface.pdb
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\obj\Debug\Joueur 2.csprojResolveAssemblyReference.cache
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\obj\Debug\Joueur_2.FormJoueur2.resources
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\obj\Debug\Joueur_2.Properties.Resources.resources
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\Joueur 2\obj\Debug\Joueur 2.csproj.GenerateResource.Cache

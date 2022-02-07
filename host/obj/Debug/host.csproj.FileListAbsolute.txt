@@ -1,0 +1,13 @@
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\obj\Debug\host.csprojResolveAssemblyReference.cache
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\host.exe
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\host.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\WCFInterface.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\WCFServices.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\WCFDataContract.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\WCFInterface.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\WCFServices.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\bin\Debug\WCFDataContract.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\obj\Debug\host.exe
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\host\obj\Debug\host.pdb
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\host\obj\Debug\host.exe
+C:\Users\Andry\Documents\Visual Studio 2015\Projects\SpaceWar\host\obj\Debug\host.pdb

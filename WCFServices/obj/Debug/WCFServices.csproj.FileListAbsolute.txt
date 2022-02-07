@@ -1,0 +1,9 @@
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\bin\Debug\WCFServices.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\bin\Debug\WCFServices.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\bin\Debug\WCFDataContract.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\bin\Debug\WCFInterface.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\bin\Debug\WCFDataContract.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\bin\Debug\WCFInterface.pdb
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\Andry\documents\visual studio 2015\Projects\WCFServices\WCFServices\obj\Debug\WCFServices.pdb
